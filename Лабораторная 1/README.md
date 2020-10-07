@@ -9,6 +9,7 @@
 ![Рисунок](https://github.com/liza-somova/project_somova/blob/main/Лабораторная%201/class_diagramm.png)
 
 Диаграмма прецедентов :
+
 ![Рисунок](https://github.com/liza-somova/project_somova/blob/main/Лабораторная%201/use_case_diagram.png)
 
 

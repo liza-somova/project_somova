@@ -24,4 +24,4 @@ DFD диаграмма:
 
 Диаграмма прецедентов:
 
-![Рисунок]()
+![Рисунок](https://github.com/liza-somova/project_somova/blob/main/Лабораторная%202/use_case_diagram.png)

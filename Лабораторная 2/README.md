@@ -18,7 +18,7 @@
 
 DFD диаграмма:
 
-![Рисунок](https://github.com/liza-somova/project_somova/blob/main/Лабораторная%202/model(2).png)
+![Рисунок](https://github.com/liza-somova/project_somova/blob/main/Лабораторная%202/model%20(2).png)
 
 Домохозяйка на основании книги рецептов взбивает яйца, всыпает сахар, ставит на водяную баню, смешивает все с мукой, пользуясь инвентарем.
 

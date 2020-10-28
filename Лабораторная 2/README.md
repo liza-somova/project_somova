@@ -2,11 +2,11 @@
 
 На диаграмме изображен процесс приготовления пирога
 
-![Рисунок]()
+![Рисунок](https://github.com/liza-somova/project_somova/blob/main/Лабораторная%202/model.png)
 
 Подуровень IDF0 диаграммы:
 
-![Рисунок](https://github.com/liza-somova/project_somova/blob/main/Лабораторная%202/model.png)
+![Рисунок](https://github.com/liza-somova/project_somova/blob/main/Лабораторная%202/model(1).png)
 
 А1 На этапе приготовления бисквита используются яйца, сахар и мука. На выходе получаем бисквит.
 
@@ -18,7 +18,7 @@
 
 DFD диаграмма:
 
-![Рисунок]()
+![Рисунок](https://github.com/liza-somova/project_somova/blob/main/Лабораторная%202/model(2).png)
 
 Домохозяйка на основании книги рецептов взбивает яйца, всыпает сахар, ставит на водяную баню, смешивает все с мукой, пользуясь инвентарем.
 

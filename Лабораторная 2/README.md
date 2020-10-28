@@ -6,7 +6,7 @@
 
 Подуровень IDF0 диаграммы:
 
-![Рисунок](https://github.com/liza-somova/project_somova/blob/main/Лабораторная%202/model(1).png)
+![Рисунок](https://github.com/liza-somova/project_somova/blob/main/Лабораторная%202/model%20(1).png)
 
 А1 На этапе приготовления бисквита используются яйца, сахар и мука. На выходе получаем бисквит.
 

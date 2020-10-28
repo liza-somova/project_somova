@@ -2,7 +2,7 @@
 
 На диаграмме изображен процесс приготовления пирога
 
-![Рисунок](https://github.com/liza-somova/project_somova/blob/main/Лабораторная%202/model5.png)
+![Рисунок](https://github.com/liza-somova/project_somova/blob/main/Лабораторная%202/model.png)
 
 Подуровень IDF0 диаграммы:
 

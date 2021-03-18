@@ -1,0 +1,32 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Modules as "Модуль"
+
+
+class In as "Внутренний"
+class Out as "Внешний"
+
+class Fill as "Ведение проектной деятельности"
+
+class Control as "Управлять ведением БД"
+class Access as "Настройка аппаратно-программного комплекса"
+class Use as "Публикация БД"
+
+
+Modules<|-- In
+Modules<|-- Out
+
+In<|-- Fill
+
+Out<|-- Control
+Out<|-- Access
+Out<|-- Use
+
+hide members
+hide circle
+hide methods
+@enduml
